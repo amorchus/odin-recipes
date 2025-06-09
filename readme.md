@@ -1,1 +1,0 @@
-Aqui he realizado lo solicitado en Odin para primera practica con Git y consola de comandos.-
